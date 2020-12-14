@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (06)	checkout master
+ (07)	branch Antecedentes
+ (08)	create antecedentes.txt
+ (09)	add + commit
