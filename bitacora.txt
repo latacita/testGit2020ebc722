@@ -22,5 +22,9 @@
  (14)	merge Antecedentes	     Recursiva, conflictos bitacora.txt arreglados
  (15)	merge DatosPersonales	     Recursiva, conflictos bitacora.txt arreglados
  (16)	add + commit
+ (17)	tag FusionTerminada
+ (18)	push origin master           Cambios hechos por otro usuario en el repo, 				     	     por lo que se hace pull, se resuelven los 				     		     conflictos y posteriormente se pushea master 				     	     al repo remoto con la tag asignada
+ (19)	add + commit + push a master
+ 
  
 
