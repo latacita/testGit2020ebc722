@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (10)	checkout master
+ (11)	push origin DatosPersonales
+ (12)	apuntes merge		     Datos Personales -> ff, Antecedentes -> 				     recursiva
+ (13)	add + commit
