@@ -1,8 +1,13 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Barañano Canales, Eduardo            %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (01)	clone
+ (02)	branch DatosPersonales
+ (03)	edit PlanVacunacion.txt
+ (04)	----
+ (05)	add + commit
