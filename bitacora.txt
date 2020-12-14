@@ -19,5 +19,8 @@
  (11)	push origin DatosPersonales
  (12)	apuntes merge		     Datos Personales -> ff, Antecedentes -> 				     		     recursiva
  (13)	add + commit
+ (14)	merge Antecedentes	     Recursiva, conflictos bitacora.txt arreglados
+ (15)	merge DatosPersonales	     Recursiva, conflictos bitacora.txt arreglados
+ (16)	add + commit
  
 
